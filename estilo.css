@@ -1,0 +1,99 @@
+body{
+    background-image: url(bg.jpg);
+    
+}
+header{
+    background-image: url(header.jpg);
+    height: 180px;
+}
+h1{
+    padding-top: 2.2%;
+    text-align: center;
+    color: white;
+    font-size: 50pt;
+}
+nav{
+    background-color: rgba(255, 224, 158, 0.521);
+    text-align: center;
+    padding-block: 5px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+}
+span{
+    margin-inline: 10px;
+    font-size: large;
+}
+#infos-int{
+    
+    padding-block: 20px;
+    padding-inline: 20px;
+}
+#infos-index{
+    padding-inline: 20px;
+    padding-block: 20px;
+    background-color: rgba(255, 255, 255, 0.384);
+    height: 60%;
+}
+#texto-index{
+    width: 65%;
+    float: left;
+    margin-right: 20px;
+}
+#infos-text{
+    padding-inline: 80px;
+}
+#infos-img{
+    text-align: center;
+    padding-block: 20px;
+    padding-inline: 50px;
+}
+#infos-turismo{
+    padding-inline: 20px;
+    padding-block: 20px;
+    background-color: rgba(255, 255, 255, 0.384);
+    height: 100%;    
+}
+#infos-historia{
+    padding-inline: 20px;
+    padding-block: 20px;
+    background-color: rgba(255, 255, 255, 0.384);
+    height: 850px;
+}
+img{
+    border: 2pt solid rgb(66, 66, 66);
+    height: 150px;
+}
+img:hover{
+    zoom: 1.01;
+}
+h3{
+    text-align: left;
+}
+#intern-infos{
+    width: 60%;
+    text-align: left;
+    float: left;
+}
+#intern-fotos{
+    width: 30%;
+    float: left;
+}
+#trip{
+    width: 600px;
+    height: auto;
+}
+#infos-hospedagem{
+    background-color: rgba(255, 255, 255, 0.384);
+    padding-inline: 20px;
+    padding-block: 20px;
+}
+#infos-gastronomia{
+    background-color: rgba(255, 255, 255, 0.384);
+    padding-inline: 20px;
+    padding-block: 20px;
+    height: 850px;
+}
